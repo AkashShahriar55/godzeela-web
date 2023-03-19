@@ -17,7 +17,7 @@ import Loader from '../../partials/Loader'
 
 import $ from 'jquery';
 
-
+ /*Testing GIT*/
 
 
 class Home extends Component {
